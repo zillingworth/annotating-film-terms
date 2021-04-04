@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "AudiAnnotate Guide to Annotating Film and Video Using Terminology Standard to Film Criticism and Production" ] },
+    "summary": { "en": [ "This page is a short list of standard film terms for researchers using AudiAnnotate to present their annotations of film and video." ] },
+    "items": [
+    ]
+}
